@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IdProvider" IDEtalkID="2044E6149D19F0EA156D831730E6A8BD" />
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{jQuery-2.0.0}" />
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" assert-keyword="false" jdk-15="false" project-jdk-name="Go SDK go1.2.1 windows/amd64" project-jdk-type="Google Go SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
